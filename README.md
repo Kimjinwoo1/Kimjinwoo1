@@ -5,6 +5,9 @@
     <a href="mailto:wlsdn0l6130@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
+    <p align="center">
+  <a href="https://velog.io/@yjw0517" target="_blank"><img src="https://img.shields.io/badge/Nick-5FCA8B?style=flat-square&logo=velog&logoColor=white"/></a>        
+</p>
 
 ### 💪 SKILLS
 
