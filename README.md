@@ -5,7 +5,6 @@
 
 -------
 <br>
-### 👋 Welcome to my GitHub profile!
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
